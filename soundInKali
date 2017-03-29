@@ -1,0 +1,2 @@
+Enable sound in kali linux
+systemctl --user enable pulseaudio && systemctl --user start pulseaudio
